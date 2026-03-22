@@ -139,13 +139,16 @@ When you are ready to submit, go to your project page on GitLab and create a tag
 
 <p align="center"><img src="img/create-tag.png"></p>
 
-The name of a **submission tag** must start with `submission` (make sure to spell correctly).
+The name of a **submission tag** must start with one of the following:
+* `status-update` (for a status update),
+* `submission` (make sure to spell correctly).
+
 If you want to be nice, add a number (0, 1, 2, …) to indicate your submission attempt.
 Example:
 
 <p align="center"><img src="img/create-tag-details.png"></p>
 
-You can write a submission comment in the message field.
+You can write a submission message in the message field.
 
 Once you have created a submission tag, you cannot change it: it serves as your proof of submission.
 You can still push new commits to the repository, but this will not change the tagged version of your code (the commit the tag points to).
@@ -169,7 +172,7 @@ The submission tag(s) should be highlighted as <span style="background-color: #d
 
 After you submit a lab, we create a special **grading merge request** for your submission.
 There you can see the grading status of all your submissions.
-The graders will give their feedback by commenting in this merge request.
+The graders will give their feedback in person or in this merge request.
 You should be notified by [email](#configuring-your-account) of any updates.
 
 Please use the **discussion thread** in the merge request to respond to the feedback, ask for clarifications, or complain about the grading.

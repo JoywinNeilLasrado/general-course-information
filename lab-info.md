@@ -48,7 +48,7 @@ The technincal details are described on the page [Working with Chalmers GitLab](
 
 - We add you to a lab project on Chalmers GitLab.
 - Robograder will test your code if you create a tag named *test-(Something)*.
-- To make a submission, create a *tag* named `submission(Something)`.
+- To make a submission, create a *tag* named `status-update` or `submission-(Something)`.
   A *merge request* will be opened for your submission.
 
 Watch for spelling mistakes when creating tags!
