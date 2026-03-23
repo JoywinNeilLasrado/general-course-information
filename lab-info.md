@@ -55,8 +55,8 @@ Watch for spelling mistakes when creating tags!
 
 ## Supervision
 
-We offer **lab supervision sessions each week** where you can (and should!) get help from course assistants.
-You choose which and how many you want to attend.
+We offer **lab supervision sessions every week** where you can (and should!) get help from course assistants.
+You can choose which and how many you want to attend.
 Consult TimeEdit to find them.
 
 During each session, we maintain a **queue** of supervision requests.
@@ -92,8 +92,8 @@ See your Canvas course page for how to the booking of status updates and interac
 Labs 2–4 are done in **groups of two or three students** (depending on your course).
 
 - You can ask for partners on the dedicated discussion channel (see your specific Canvas page), or ask your course-responsible teacher to help you.
-- We recommend to form a diverse team and together decide some rules.
-  For example, the following are some suggestions:
+- We recommend to form a diverse team and together decide on some rules.
+  Here are some suggestions:
    - Agree on regular working times.
    - Work together, never alone.
    - Let the member with the least coding experience write the code, coached by the others.
